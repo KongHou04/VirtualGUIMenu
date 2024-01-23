@@ -1,0 +1,12 @@
+D:\MyLib\ConsoleCleaner\ConsoleCleaner\bin\Debug\ConsoleCleaner.dll
+D:\MyLib\ConsoleCleaner\ConsoleCleaner\bin\Debug\ConsoleCleaner.pdb
+D:\MyLib\ConsoleCleaner\ConsoleCleaner\obj\Debug\ConsoleCleaner.csproj.AssemblyReference.cache
+D:\MyLib\ConsoleCleaner\ConsoleCleaner\obj\Debug\ConsoleCleaner.csproj.CoreCompileInputs.cache
+D:\MyLib\ConsoleCleaner\ConsoleCleaner\obj\Debug\ConsoleCleaner.dll
+D:\MyLib\ConsoleCleaner\ConsoleCleaner\obj\Debug\ConsoleCleaner.pdb
+C:\Users\CONG HAU\Desktop\MyLibs\.Net_Framework_4.8\ConsoleCleaner\ConsoleCleaner\bin\Debug\ConsoleCleaner.dll
+C:\Users\CONG HAU\Desktop\MyLibs\.Net_Framework_4.8\ConsoleCleaner\ConsoleCleaner\bin\Debug\ConsoleCleaner.pdb
+C:\Users\CONG HAU\Desktop\MyLibs\.Net_Framework_4.8\ConsoleCleaner\ConsoleCleaner\obj\Debug\ConsoleCleaner.csproj.AssemblyReference.cache
+C:\Users\CONG HAU\Desktop\MyLibs\.Net_Framework_4.8\ConsoleCleaner\ConsoleCleaner\obj\Debug\ConsoleCleaner.csproj.CoreCompileInputs.cache
+C:\Users\CONG HAU\Desktop\MyLibs\.Net_Framework_4.8\ConsoleCleaner\ConsoleCleaner\obj\Debug\ConsoleCleaner.dll
+C:\Users\CONG HAU\Desktop\MyLibs\.Net_Framework_4.8\ConsoleCleaner\ConsoleCleaner\obj\Debug\ConsoleCleaner.pdb

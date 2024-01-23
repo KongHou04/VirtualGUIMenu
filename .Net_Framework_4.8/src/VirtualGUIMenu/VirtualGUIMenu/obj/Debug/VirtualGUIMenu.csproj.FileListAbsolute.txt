@@ -1,0 +1,17 @@
+D:\MyLib\VirtualGUIMenu\VirtualGUIMenu\bin\Debug\VirtualGUIMenu.dll
+D:\MyLib\VirtualGUIMenu\VirtualGUIMenu\bin\Debug\VirtualGUIMenu.pdb
+D:\MyLib\VirtualGUIMenu\VirtualGUIMenu\bin\Debug\ConsoleCleaner.dll
+D:\MyLib\VirtualGUIMenu\VirtualGUIMenu\bin\Debug\ConsoleCleaner.pdb
+D:\MyLib\VirtualGUIMenu\VirtualGUIMenu\obj\Debug\VirtualGUIMenu.csproj.AssemblyReference.cache
+D:\MyLib\VirtualGUIMenu\VirtualGUIMenu\obj\Debug\VirtualGUIMenu.csproj.CoreCompileInputs.cache
+D:\MyLib\VirtualGUIMenu\VirtualGUIMenu\obj\Debug\VirtualGUIMenu.csproj.CopyComplete
+D:\MyLib\VirtualGUIMenu\VirtualGUIMenu\obj\Debug\VirtualGUIMenu.dll
+D:\MyLib\VirtualGUIMenu\VirtualGUIMenu\obj\Debug\VirtualGUIMenu.pdb
+C:\Users\CONG HAU\Desktop\MyLibs\.Net_Framework_4.8\src\VirtualGUIMenu\VirtualGUIMenu\obj\Debug\VirtualGUIMenu.csproj.AssemblyReference.cache
+C:\Users\CONG HAU\Desktop\MyLibs\.Net_Framework_4.8\src\VirtualGUIMenu\VirtualGUIMenu\obj\Debug\VirtualGUIMenu.csproj.CoreCompileInputs.cache
+C:\Users\CONG HAU\Desktop\MyLibs\.Net_Framework_4.8\src\VirtualGUIMenu\VirtualGUIMenu\obj\Debug\VirtualGUIMenu.dll
+C:\Users\CONG HAU\Desktop\MyLibs\.Net_Framework_4.8\src\VirtualGUIMenu\VirtualGUIMenu\obj\Debug\VirtualGUIMenu.pdb
+C:\Users\CONG HAU\Desktop\MyLibs\.Net_Framework_4.8\src\VirtualGUIMenu\VirtualGUIMenu\bin\Debug\VirtualGUIMenu.dll
+C:\Users\CONG HAU\Desktop\MyLibs\.Net_Framework_4.8\src\VirtualGUIMenu\VirtualGUIMenu\bin\Debug\VirtualGUIMenu.pdb
+C:\Users\CONG HAU\Desktop\MyLibs\.Net_Framework_4.8\src\VirtualGUIMenu\VirtualGUIMenu\bin\Debug\ConsoleCleaner.dll
+C:\Users\CONG HAU\Desktop\MyLibs\.Net_Framework_4.8\src\VirtualGUIMenu\VirtualGUIMenu\obj\Debug\VirtualGUIMenu.csproj.CopyComplete
